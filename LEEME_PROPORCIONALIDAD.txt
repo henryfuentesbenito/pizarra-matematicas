@@ -1,0 +1,6 @@
+Aula IA · Proporcionalidad y porcentajes (3.º y 4.º ESO)
+Abrir index.html en Chrome o Edge después de descomprimir todo el ZIP.
+53 secciones, 264 elementos revelables. Contenido adaptado de la guía docente de 22 páginas.
+El itinerario permite saltar a cualquier ejemplo o ejercicio. Revelar muestra la siguiente explicación, operación o solución. El guion muestra el contenido revelado hasta el momento.
+Anotar sobre pizarra activa lápiz, borrador, colores, grosor y deshacer/rehacer. Las anotaciones principales se conservan por sección durante la sesión abierta; no se incluyen en el guardado JSON heredado. La pizarra libre es independiente.
+MathJax local, sin conexión necesaria para fórmulas. La voz depende del navegador.
